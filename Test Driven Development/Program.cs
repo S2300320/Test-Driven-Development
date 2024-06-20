@@ -66,7 +66,7 @@ namespace Test_Driven_Development
             }
             catch (Exception)
             {
-                Console.WriteLine("");
+                Console.WriteLine("no product found with id 0");
             }
 
         }
